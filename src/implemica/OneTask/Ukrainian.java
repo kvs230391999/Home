@@ -5,11 +5,11 @@ import java.util.Scanner;
 /**
  * Created 22.11.2024.
  */
-public class Ukrain {
+public class Ukrainian {
 
     Scanner scanner = new Scanner(System.in);
 
-    int ukrainNum(int n){
+    int ukrainianNum(int n){
         System.out.println("Enter the number ");
         n = scanner.nextInt();
         return ((factorial(2*n))/((factorial(n+1)*factorial(n))));

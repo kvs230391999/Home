@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args){
 
-        Ukrain ukrain = new Ukrain();
+        Ukrainian ukrainian = new Ukrainian();
 
-        System.out.println("Количество правильных скобочных вариантов: " + ukrain.ukrainNum(0));
+        System.out.println("Количество правильных скобочных вариантов: " + ukrainian.ukrainianNum(0));
     }
 }
