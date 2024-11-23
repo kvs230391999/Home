@@ -20,7 +20,7 @@ import java.util.List;
  * NAME1 NAME2 [NAME1 - source, NAME2 - destination]
  * [empty line separating the tests]
  */
-public class App {
+public class AppProgram {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("D:\\Java\\Java Pro\\Home\\Home\\src\\implemica\\TwoTask\\data"));
         String line = br.readLine();
