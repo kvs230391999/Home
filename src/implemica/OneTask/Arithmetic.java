@@ -9,7 +9,7 @@ public class Arithmetic {
 
     Scanner scanner = new Scanner(System.in);
 
-    int arithmeticNum(int n){
+    int arithmeticNumb(int n){
         System.out.println("Enter the number ");
         n = scanner.nextInt();
         return ((factorial(2*n))/((factorial(n+1)*factorial(n))));
