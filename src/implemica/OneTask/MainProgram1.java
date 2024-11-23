@@ -1,6 +1,6 @@
 package implemica.OneTask;
 
-public class MainProgram {
+public class MainProgram1 {
 
     public static void main(String[] args){
 
