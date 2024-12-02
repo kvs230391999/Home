@@ -6,6 +6,6 @@ public class MainProgram1 {
 
         Arithmetic arithmetic = new Arithmetic();
 
-        System.out.println("Количество правильных скобочных вариантов: " + arithmetic.arithmeticNumb(0));
+        System.out.println("Number of correct bracket options: " + arithmetic.arithmeticNumb(0));
     }
 }
